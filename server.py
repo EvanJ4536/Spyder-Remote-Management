@@ -60,6 +60,17 @@ def helpMenu():
 Help Menu
 ##############
 
+Command Format
+----------------------------------------------------------------------------------------------
+client_number command
+
+EX.
+-------
+0 dir
+-------
+This send the "dir" command to the client at the 0 index in the CLIENT_DICT.
+
+
 Commands
 ----------------------------------------------------------------------------------------------
 > help / h : Display this menu.
